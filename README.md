@@ -18,6 +18,10 @@ Here an example how to build a class:
 
 https://github.com/Pascal-Bernard/Sql-Alchemy-Orm-Python-and-Postgresql/blob/master/build_sql_alchemy_class.py
 
+And the ready-to-use fucntion to query data using the object - which means 'without' any SQL language:
+
+https://github.com/Pascal-Bernard/Sql-Alchemy-Orm-Python-and-Postgresql/blob/master/sql_alchemy_query_example.py
+
 
 
 
