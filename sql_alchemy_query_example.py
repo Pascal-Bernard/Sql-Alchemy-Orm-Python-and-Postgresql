@@ -9,7 +9,7 @@
 # | 5    | 56789  | 2019-01-05 | [{"jsonId": 5}, {"type": "A"}, {"data": "fgh"}] 
 # | 6    | 67890  | 2019-01-06 | [{"jsonId": 6}, {"type": "B"}, {"data": "ghi"}] 
 
-rows = session.query(Loans).filter(
+rows = session.query(Table).filter(
     Table.json_data.contains([
         {"type": "A"}
         ])
