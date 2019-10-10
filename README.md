@@ -8,6 +8,13 @@ Definitions.
 
 In Computer Science, an ORM means an "Object-relational mapping". An ORM  is supposed to convert data between incompatible type systems using object-oriented programming languages. From that point, an "object" representing the database will be created and used with same the programming language of the framework or development environment. The main goal is indeed to interact with any database without embedding SQL queries.
 
+# SQL Alchemy
+
+In this repo, we cover the  Object Relational Mapper called *SQLAlchemy*.
+
+SQLAlchemy and its well-known object-relational mapper provides the data mapper pattern where classes can be mapped to the database - permitting the object model and database schema to develop in a cleanly decoupled way from the beginning.
+
+
 
 
 
